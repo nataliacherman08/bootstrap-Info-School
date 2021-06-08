@@ -10,4 +10,4 @@ During this project, I was able to rework in depth the functionalities proposed 
 * HTML
 * CSS
 * SCSS
-* Javascript (JQuery)
+* JavaScript (jQuery)
