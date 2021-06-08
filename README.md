@@ -9,5 +9,5 @@ During this project, I was able to rework in depth the functionalities proposed 
 ## Langages
 * HTML
 * CSS
-* SCSS
+* Sass
 * JavaScript (jQuery)
